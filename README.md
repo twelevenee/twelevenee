@@ -1,9 +1,52 @@
-# 💫 About Me:
-I study Artificial Intelligence at Sungkyunkwan University, with a focus on NLP and LLMs.<br><br>I am interested in how it changes the way people understand information, make decisions, and relate to one another.<br><br>My work often sits between language AI and human-centered questions: fairness, accessibility, loneliness, public understanding, and the social effects of intelligent systems.<br><br>## Interests<br><br>- NLP and LLMs<br>- Human-centered AI<br>- Information accessibility<br>- AI ethics and society<br>- Poetry, humanities, and social questions<br><br>## Notes<br><br>I write poems and care about building technology with human sensitivity.<br><br>Outside of work, I like quiet walks by the sea or in parks, reading in sunny cafes, tennis, and travel.
+# Hi, I'm Jey
 
+I study Artificial Intelligence at Sungkyunkwan University and build language systems for more human, accessible, and socially aware technology.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jey-kim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeynkimn@gmail.com) 
+My interests sit between NLP, LLMs, and human-centered questions: how AI changes the way people understand information, make decisions, and relate to one another.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+## What I'm Exploring
+
+- NLP and large language models
+- Information accessibility and public understanding
+- Fairness, ethics, and social impact in AI systems
+- Human-centered AI for care, loneliness, and everyday decisions
+- The relationship between poetry, humanities, and computation
+
+## Current Focus
+
+- Learning how modern LLM systems are designed, evaluated, and deployed
+- Building projects that make complex information easier to understand
+- Thinking about how AI can support people without flattening human nuance
+
+## Featured Work
+
+<!-- Replace these with your actual projects when ready. -->
+
+### Accessible Language AI
+
+Tools and experiments focused on making difficult information clearer, more readable, and easier to act on.
+
+### Human-Centered LLM Research
+
+Explorations around trust, fairness, accessibility, and the social effects of intelligent systems.
+
+### Poetry and Computation
+
+Creative experiments with language, interpretation, and the boundary between technical systems and human expression.
+
+## Tech Stack
+
+**AI / ML:** Python, PyTorch, TensorFlow, Keras, scikit-learn  
+**Data:** R, Pandas, NumPy, Matplotlib, SQLite  
+**Web / Product:** TypeScript, JavaScript, React, FastAPI, Supabase, PostgreSQL, Vercel  
+**Tools:** GitHub, GitLab, Figma, Anaconda, Markdown, C
+
+## Beyond Code
+
+I write poems and care about building technology with human sensitivity.
+
+Outside of work, I like quiet walks by the sea or in parks, reading in sunny cafes, tennis, and travel.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jey-kim) · [Email](mailto:jeynkimn@gmail.com)
